@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+// Run command loop
 void ush_loop(void) {
     char *line;
     char **args;
